@@ -3,7 +3,7 @@
 .DS_Store
 
 # Data files
-data/*nc
+data/ETOPO_2022_v1_60s_N90W180_bed.nc
 
 # Default figure files
 *LastName*png
